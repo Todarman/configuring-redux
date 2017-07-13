@@ -1,0 +1,27 @@
+{
+  "name": "configuring-redux",
+  "version": "1.0.0",
+  "description": "Configure redux framework for your react application",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Todarman/configuring-redux.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Todarman/configuring-redux/issues"
+  },
+  "homepage": "https://github.com/Todarman/configuring-redux#readme",
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-redux": "^5.0.5",
+    "react-router-dom": "^4.1.1",
+    "redux": "^3.7.2"
+  }
+}
